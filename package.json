@@ -1,0 +1,16 @@
+{
+  "name": "botao-fujao",
+  "version": "1.0.0",
+  "description": "botao fujao é um projeto simples que utiliza html, css e js para fazer uma brincadeira",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
